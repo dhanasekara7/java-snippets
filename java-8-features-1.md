@@ -1,6 +1,6 @@
 ##### Java Lambdas
 ```java
-// ********* 1) thread old style
+// *********1) thread old style
 public class RunnableDemo {
     public static void main(String[] args) {
         new Thread(new Runnable() {
